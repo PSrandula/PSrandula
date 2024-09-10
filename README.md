@@ -2,8 +2,8 @@
 <h3 align="center">I'm Pasindu Randula, computer science second-year undergraduate student at a university. Here is my GitHub profile, welcome!</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=psrandula&label=Profile%20views&color=0e75b6&style=flat" alt="psrandula" /> </p>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> <br>
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> 
+<br><br><br>
 - 📚 I’m currently studying **a BSc(hons) computer science degree**
 
 - 🌱 I'm always learning and researching **new programming languages , projects and new technologies**
