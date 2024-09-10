@@ -3,7 +3,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=psrandula&label=Profile%20views&color=0e75b6&style=flat" alt="psrandula" /> </p>
 <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> 
-<br><br><br><br><br><br><br>
+
 - 📚 I’m currently studying a BSc(hons) computer science degree
 
 - 🌱 I'm always learning and researching new programming languages , projects and new technologies
