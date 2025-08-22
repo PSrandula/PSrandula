@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pasindu Randula</h1>
+<h1 align="center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> Hi, I'm Pasindu Randula <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 align="center">I'm Pasindu Randula, computer science third-year undergraduate student at a university. Here is my GitHub profile, welcome!</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;UI+UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=psrandula&label=Profile%20views&color=brightgreen" alt="psrandula" /> </p>
 <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> 
