@@ -33,8 +33,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/pasindurandula"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/pasindurandula" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psrandula&show_icons=true&locale=en&layout=compact" alt="psrandula" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psrandula&show_icons=true&locale=en&layout=compact" alt="psrandula"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=psrandula&show_icons=true&locale=en" alt="psrandula"/>
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psrandula&show_icons=true&locale=en" alt="psrandula" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psrandula&" alt="psrandula" /></p>
