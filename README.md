@@ -19,7 +19,7 @@
 
 - 📫 How to reach me pasindusadeep046@gmail.com
   
-- 👨‍💻 All of my projects are available at [https://pasindu-randula.vercel.app/](https://pasindu-randula.vercel.app/)
+- 👨‍💻 My portfolio [https://pasindu-randula.vercel.app/](https://pasindu-randula.vercel.app/)
 
 - 📝 I keep posting regularly on my page. [https://www.facebook.com/share/1Q5vdkDNVW/?mibextid=LQQJ4d](https://www.facebook.com/share/1Q5vdkDNVW/?mibextid=LQQJ4d)
 
